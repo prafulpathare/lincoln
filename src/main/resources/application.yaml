@@ -1,3 +1,5 @@
 spring:
   application:
     name: lincoln
+
+base-path: 'D:\\temp\\lincoln\\'
